@@ -2,13 +2,7 @@
 
 Welcome to my personal developer portfolio! This website showcases my skills, projects, and experience as a web developer.
 
-## 🚀 Features
-
-- Responsive design for all devices
-- Project showcase with live links and source code
-- About Me section
-- Contact form or contact information
-- Skills and technologies list
+Have a look: https://deepika-20022004.github.io/developer-portfolio/
 
 ## 🛠️ Built With
 
